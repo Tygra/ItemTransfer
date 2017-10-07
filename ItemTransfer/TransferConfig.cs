@@ -100,6 +100,7 @@ namespace ItemTransfer
         public class Contents
         {
             public int maxactivetransfers = 5;
+            public String[] transferregions = { "spawn" };
         }
         #endregion
 

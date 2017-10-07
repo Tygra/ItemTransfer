@@ -1,0 +1,14 @@
+C:\Users\tygra\Desktop\Plugins\ItemTransfer\ItemTransfer\obj\Debug\ItemTransfer.csprojResolveAssemblyReference.cache
+C:\Users\tygra\Desktop\Plugins\ItemTransfer\ItemTransfer\obj\Debug\ItemTransfer.csproj.CoreCompileInputs.cache
+C:\Users\tygra\Desktop\Plugins\ItemTransfer\ItemTransfer\bin\Debug\ItemTransfer.dll
+C:\Users\tygra\Desktop\Plugins\ItemTransfer\ItemTransfer\bin\Debug\ItemTransfer.pdb
+C:\Users\tygra\Desktop\Plugins\ItemTransfer\ItemTransfer\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\tygra\Desktop\Plugins\ItemTransfer\ItemTransfer\bin\Debug\MySql.Data.dll
+C:\Users\tygra\Desktop\Plugins\ItemTransfer\ItemTransfer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tygra\Desktop\Plugins\ItemTransfer\ItemTransfer\bin\Debug\OTAPI.dll
+C:\Users\tygra\Desktop\Plugins\ItemTransfer\ItemTransfer\bin\Debug\TerrariaServer.exe
+C:\Users\tygra\Desktop\Plugins\ItemTransfer\ItemTransfer\bin\Debug\TShockAPI.dll
+C:\Users\tygra\Desktop\Plugins\ItemTransfer\ItemTransfer\bin\Debug\HttpServer.dll
+C:\Users\tygra\Desktop\Plugins\ItemTransfer\ItemTransfer\bin\Debug\BCrypt.Net.dll
+C:\Users\tygra\Desktop\Plugins\ItemTransfer\ItemTransfer\obj\Debug\ItemTransfer.dll
+C:\Users\tygra\Desktop\Plugins\ItemTransfer\ItemTransfer\obj\Debug\ItemTransfer.pdb
